@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mafia-Game/static/css/main.5d232280.css",
+    "main.js": "/Mafia-Game/static/js/main.bd111a0a.js",
+    "static/media/players-join.png": "/Mafia-Game/static/media/players-join.1a36c197a4e2723d34dd.png",
+    "static/media/create-2.jpeg": "/Mafia-Game/static/media/create-2.95a13feb738dc8940cd6.jpeg",
+    "static/media/create-page-img-4.jpeg": "/Mafia-Game/static/media/create-page-img-4.fd732ddd5e4c5d807ef4.jpeg",
+    "static/media/day-phase-desktop.png": "/Mafia-Game/static/media/day-phase-desktop.c819c0fccf582a0913dc.png",
+    "static/media/night-phase-desktop.png": "/Mafia-Game/static/media/night-phase-desktop.7921d0aabdafa8ed1693.png",
+    "static/media/main-bg.png": "/Mafia-Game/static/media/main-bg.aff442951bdce9305c8f.png",
+    "static/media/mafia-logo-3.png": "/Mafia-Game/static/media/mafia-logo-3.9f858b1ce2e979f8d69b.png",
+    "static/media/join-img-bg-final.jpg": "/Mafia-Game/static/media/join-img-bg-final.7aee5dcdeed328dc47ce.jpg",
+    "index.html": "/Mafia-Game/index.html",
+    "main.5d232280.css.map": "/Mafia-Game/static/css/main.5d232280.css.map",
+    "main.bd111a0a.js.map": "/Mafia-Game/static/js/main.bd111a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d232280.css",
+    "static/js/main.bd111a0a.js"
+  ]
+}
